@@ -34,9 +34,9 @@
 1. **Python 3.10**  
 
 2. **Docker**
-[Документация](https://docs.docker.com/)
-[Установка docker на Linux](https://docs.docker.com/engine/install/ubuntu/)
-[Установка docker на Windows](https://docs.docker.com/desktop/install/windows-install/)
+- [Документация](https://docs.docker.com/)
+- [Установка docker на Linux](https://docs.docker.com/engine/install/ubuntu/)
+- [Установка docker на Windows](https://docs.docker.com/desktop/install/windows-install/)
 3. **Токен Telegram бота**  
    [Документация](https://core.telegram.org/bots/features#botfather)  
    Перед запуском нужно получить **token** у бота
